@@ -18,3 +18,16 @@ Such a resource should exist to **empower exceptional individuals** to:
 
 - Build for themselves a rock solid foundation for learning
 - Feel connected to the discoveries which are the greatest achievements of Western civilization
+
+## Technical
+### Rebuilding CSS
+
+* `sass assets/css/style.scss:assets/css/style.css`
+    * You'll get a bunch of deprecation warnings but don't worry (for now)
+    * https://stackoverflow.com/a/60838206
+
+* https://github.com/jekyll/minima
+
+### Testing website locally
+
+`bundle exec jekyll serve`

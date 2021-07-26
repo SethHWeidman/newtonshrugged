@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Coming soon, to an internet near you... 
+Click "About" to read the Mission Statement.
+
+Newton Shrugged is coming soon, to an internet near you... 

@@ -1,12 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Mission Statement
+permalink: /mission-statement/
 ---
-
-# Newton Shrugged
-
-## Mission Statement
 
 For any concept in Math, Physics, Chemistry, or Statistics there should exist one and only one “best explanation” of the concept. 
 
@@ -18,7 +14,7 @@ Each "best explanation" should take the form of a 1-3 minute video that is
 - Memorable
 - Delightful
 
-### Why?
+## Why?
 
 Such a resource should exist to **empower exceptional individuals** to:
 
